@@ -1,0 +1,13 @@
+body{
+    background-color: #4fd46c;
+}
+.text-3xl {
+    text-align: center ;
+}
+.uppercase {
+align-items: center;
+}
+.py-3{
+    position: relative;
+    left: 42%;
+}
